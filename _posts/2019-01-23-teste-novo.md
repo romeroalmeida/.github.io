@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Agora Vai JUwes"
+title:  "Agora Vai "
 author: "Romero Almeida"
 ---
 

@@ -12,14 +12,25 @@ footer,
   max-width: 800px;
   width: 80%;
 }
+.nav-container{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
 
 // body{
 //   background: url('../../assets/hero-bg.jpg')no-repeat top;
 // }
-
+.logo{
+  box-shadow: -7px 7px 0px 0px rgba(0,0,0, 0.03);
+  margin: 0;
+}
 .nav {
-  box-shadow: 0 2px 2px -2px $shadow-color;
   overflow: auto;
+  height: 160px;
+  display: flex;
+  align-items: center;
+  margin-bottom: 60px;
 
   &-container {
     margin: 1rem auto;
@@ -42,7 +53,7 @@ footer,
 
   ul {
     list-style-type: none;
-    margin: 1rem 0 0;
+    margin: 0;
     padding: 0;
     text-align: center;
   }
@@ -65,23 +76,15 @@ footer,
   }
 
   a {
-    color: $default-color;
+    color: #6bcfab;
+    font-size: 24px;
     font-family: $sans-serif;
+    
   }
 }
 
 @media (min-width: 600px) {
-  .nav {
-    &-container {
-      text-align: left;
-    }
 
-    ul {
-      bottom: 0;
-      position: absolute;
-      right: 0;
-    }
-  }
 }
 
 footer {
