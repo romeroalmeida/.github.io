@@ -24,6 +24,10 @@ footer,
 .logo{
   box-shadow: -7px 7px 0px 0px rgba(0,0,0, 0.03);
   margin: 0;
+  &:hover,
+  &:focus {
+    border: none;
+  }
 }
 .nav {
   overflow: auto;
@@ -62,23 +66,26 @@ footer,
     @include transition(all .2s ease-out);
     color: $default-color;
     display: inline-block;
-    opacity: .6;
     padding: 0 2rem 0 0;
 
     &:last-child {
       padding-right: 0;
     }
-
-    &:hover,
+    a{
+      &:hover,
     &:focus {
-      opacity: 1;
+      border-bottom: solid 3px;
     }
+    }
+
+    
   }
 
   a {
     color: #6bcfab;
     font-size: 24px;
     font-family: $sans-serif;
+    
     
   }
 }
