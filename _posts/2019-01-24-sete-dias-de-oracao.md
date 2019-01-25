@@ -7,5 +7,3 @@ Para que aconte√ßa milagres em nosso meio, temos que estar unidos no mesmo prop√
 
 
 ![Placeholder image](../assets/7dias.jpg "Placeholder image")
-
-
