@@ -1,15 +1,15 @@
 ---
-layout: post
+layout: interna
 title: "Sobre"
 author: "juwes"
 permalink: /sobre/
 ---
 
-A friend of mine writes short stories. One sunny day, I asked if he wanted a website to showcase his works and he agreed. I decided to use GitHub Pages to host his site. That way he wouldn't have to buy a domain and a server.
+Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sit iste cupiditate soluta possimus a nesciunt quasi id! A, laborum dicta!
 
-While doing some research up on GitHub Pages, I accidentally chanced upon this _simple, blog-aware, static site generator_ called [Jekyll](https://jekyllrb.com/) which works really well with GitHub Pages. I figured it would do just fine for my friend and I set about searching for a pretty theme. I wanted a theme with a _book-ish_ vibe. Unfortunately, most of the themes were too modern. Eventually, I caved and begun working on my own theme. With the help of [Poole](https://github.com/poole/poole), the Jekyll Butler, I was able to build **Tale**.
+Lorem ipsum dolor sit amet **consectetur** adipisicing elit. [Instagram](https://instagram.com/juwesbm) ipsa distinctio et in odit eligendi tenetur blanditiis, quas recusandae sapiente, accusamus praesentium soluta doloremque facere, incidunt debitis minima ex dolorem dolor voluptatibus libero quis ipsum? Nobis impedit nemo aut cum minima saepe cumque excepturi fuga laudantium, qui harum voluptatum ut dolorum, animi commodi est inventore. Quia nemo inventore est at! Consequatur, error! Voluptate laborum incidunt molestiae, dolores distinctio aspernatur exercitationem maxime pariatur soluta culpa animi adipisci ipsa. Dolorem, facilis corrupti.
 
-## Contribute
-Feel free to create an issue or make a pull request on [GitHub](https://github.com/chesterhow/tale).
+## Juventude
+incidunt debitis minima ex dolorem dolor voluptatibus libero quis ipsum?
 
 Thanks for reading!
