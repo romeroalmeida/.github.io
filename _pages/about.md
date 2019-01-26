@@ -10,7 +10,7 @@ Juventude de Barra Mansa é um grupo de jovens evangélicos capacitados e escolh
 A **JuWesx BM** é  liderada pelos supervisores Bruno Oliveira e sua esposa Suellen Oliveira, ambos escolhidos por Deus para liderar essa juventude.
 
 O grupo também conta com os diretores das igrejas locais e com a equipe que é formado por, 
-Jessika(Tesouraria), Edilene (1 secretaria), Janaína(2 secretaria), Elton(Cultivo espiritual), Rafael Ramos(Evangelismo), Romero Almeida(Marketing / Mídia), Luciano(Louvor) e Juliana(Coreografia).
+Jessika(Tesouraria), Edilene(Secretaria), Janaína(Secretaria), Elton(Cultivo espiritual), Rafael Ramos(Evangelismo), Romero Almeida(Marketing/Mídia), Luciano(Louvor) e Juliana(Coreografia).
 
 A JuWes nasceu através da **Igreja Metodista Wesleyana** que foi fundada em 05 de Janeiro de 1967 na cidade do Rio de Janeiro, com cerca de 140 mil fiéis através dos moldes da doutrina de John Wesley. Dentro da denominação foram criados departamentos e um deles é o departamento de jovens que nos últimos anos foi denominado JuWes, que é  a junção  de **Juventude mais Wesleyana**.
 
