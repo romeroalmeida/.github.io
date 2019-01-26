@@ -5,11 +5,22 @@ author: "juwes"
 permalink: /sobre/
 ---
 
-Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sit iste cupiditate soluta possimus a nesciunt quasi id! A, laborum dicta!
+Juventude de Barra Mansa é um grupo de jovens evangélicos capacitados e escolhidos por Deus para impactar essa geração.
 
-Lorem ipsum dolor sit amet **consectetur** adipisicing elit. [Instagram](https://instagram.com/juwesbm) ipsa distinctio et in odit eligendi tenetur blanditiis, quas recusandae sapiente, accusamus praesentium soluta doloremque facere, incidunt debitis minima ex dolorem dolor voluptatibus libero quis ipsum? Nobis impedit nemo aut cum minima saepe cumque excepturi fuga laudantium, qui harum voluptatum ut dolorum, animi commodi est inventore. Quia nemo inventore est at! Consequatur, error! Voluptate laborum incidunt molestiae, dolores distinctio aspernatur exercitationem maxime pariatur soluta culpa animi adipisci ipsa. Dolorem, facilis corrupti.
+A **JuWesx BM** é  liderada pelos supervisores Bruno Moreira e sua esposa Suellen, ambos escolhidos por Deus para liderar essa juventude.
 
-## Juventude
-incidunt debitis minima ex dolorem dolor voluptatibus libero quis ipsum?
+O grupo também conta com os diretores das igrejas locais e com a equipe criada para o auxílio administrativo do Distrito.
 
-Thanks for reading!
+A JuWes nasceu através da **Igreja Metodista Wesleyana** que foi fundada em 05 de Janeiro de 1967 na cidade do Rio de Janeiro, com cerca de 140 mil fiéis através dos moldes da doutrina de John Wesley. Dentro da denominação foram criados departamentos e um deles é o departamento de jovens que nos últimos anos foi denominado JuWes, que é  a junção  de **Juventude mais Wesleyana**.
+
+O dia da JuWes é sempre comemorado em 1° de Maio, em grande evento nos locais dentro da Sexta Região Eclesiástica. 
+
+A JuWes BM tem como objetivo unificar as ideias e o crescimento espiritual e físico dos jovens que fazem parte do grupo.
+
+Nossa missão é a expansão do número de jovens através de eventos evangelísticos e a participação de festas das igrejas locais.
+
+Não fique de fora desse time, venha fazer parte da JuWes você também, vem!
+
+Nos siga nos [Instagram](https://instagram.com/juwesbm) e fique por dentro dos nossos eventos!
+
+## JuWes BM – Faça parte!
