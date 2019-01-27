@@ -11,10 +11,11 @@ $shadow-color: rgba(0, 0, 0, .2);
 $code-color: #bf616a;
 
 // Fonts
-$serif-primary: 'Comfortaa', cursive;
-$serif-secondary: 'Comfortaa', cursive;
+// $serif-primary: 'Comfortaa', cursive;
+$serif-primary: 'Sarabun', sans-serif;
+$serif-secondary: 'Sarabun', sans-serif;
 $sans-serif: 'Baloo Thambi', cursive;
-$monospaced: 'Comfortaa', cursive;
+$monospaced: 'Sarabun', sans-serif;
 
 @mixin box-sizing($type: border-box) {
   -webkit-box-sizing: $type;
