@@ -31,9 +31,9 @@ Já entendemos que o salário do pecado é a morte **(Romanos 6.23).** Portanto,
 
 
 
-Esta é a primeira parte deste estudo. Gostaria de deixar uma pergunta aos amados irmãos. Quando foi feito o primeiro sacrifício de animal registrado na Bíblia?
+##### Esta é a primeira parte deste estudo. Gostaria de deixar uma pergunta aos amados irmãos. <br> _Quando foi feito o primeiro sacrifício de animal registrado na Bíblia?_
 
-Na segunda postagem vamos falar sobre o sacrifício de animais. O Porquê tinha que ser feito. Qual a necessidade de se cumprir este ritual no Tabernáculo e no Templo.
+##### Na segunda postagem vamos falar sobre o sacrifício de animais. O Porquê tinha que ser feito. Qual a necessidade de se cumprir este ritual no Tabernáculo e no Templo.
 
 Que Deus os abençoe grandemente. <br>
 Um grande abraço na paz do Senhor.
