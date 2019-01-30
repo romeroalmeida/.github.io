@@ -4,6 +4,8 @@ title: "O Estado Intermediário"
 author: "Pr. Paulo Roberto Costa da Paixão"
 permalink: /oestadointermediario-1/
 ---
+#### 1ª Parte. 
+
 Ainda existem muitos questionamentos a respeito da pós-morte. Para onde vão aqueles que morrem? Tanto os que morrem em Cristo, como os que morrem sem Cristo.
 
 Como fica o estado daqueles que morreram na Velha Aliança, no Antigo Testamento, sob a lei? E após o novo concerto, o Novo Testamento, após a morte e ressurreição de Cristo? Como ficam estas almas? _Estão dormindo? Estão acordados? Como é isto?_
