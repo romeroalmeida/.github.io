@@ -80,15 +80,6 @@ pequenos pecados, e que depois de um certo tempo vão para o céu, ficarão surp
 para a eternidade e se depararem com um lugar totalmente diferente, chamado Inferno.
 
 
-
-
-
-ESTAMOS CAMINHANDO NESTE ESTUDO E COM CERTEZA VOCÊ QUE ESTÁ LENDO
-CHEGARÁ A UMA CONCLUSÃO BÍBLICA SOBRE O ASSUNTO. LEIA ATENTAMENTE AS
-PASSAGENS BÍBLICAS E SE CASO TIVER ALGUM QUESTIONAMENTO OU UMA VISÃO DIFERENTE,
-COMENTE PARA QUE POSSAMOS JUNTOS ESCLARECER TODO TIPO DE DÚVIDA.
-DEUS OS ABENÇOE. BOA LEITURA E QUE A PAZ DO SENHOR ESTEJA COM TODOS.
-
 ##### Estamos caminhando neste estudo e com certeza você que está lendo chegará a uma conclusão bíblica sobre o assunto.  
 
 ##### Leia atentamente as passagens bíblicas e se caso tiver algum questionamento ou uma visão diferente, comente para que possamos juntos esclarecer todo tipo de dúvida.
